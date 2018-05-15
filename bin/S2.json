@@ -1,0 +1,97 @@
+{
+  "data": {
+    "users": [
+      {
+        "id": 3010,
+        "first-name": "Lourie",
+        "last-name": "Muto",
+        "email-address": "lmuto@example.com",
+        "tags": [ 7,10,12 ]
+      },
+      {
+        "id": 4478,
+        "first-name": "Booker",
+        "last-name": "Webb",
+        "email-address": "bwebb@example.com",
+        "tags": [35,265,66]
+      },
+      {
+        "id": 5201,
+        "first-name": "Lahoma",
+        "last-name": "Ritz",
+        "email-address": "lritz@example.com",
+        "tags": [1123,2254,36,70]
+      },
+      {
+        "id": 4990,
+        "first-name": "Dawne",
+        "last-name": "Kleiner",
+        "email-address": "dkleiner@example.com",
+        "tags": [734,10,222]
+      }
+    ],
+    "tags" : [
+      {
+        "id" : 7,
+        "name": "hireDate",
+        "value": "12/1/2015"
+      },
+      {
+        "id" : 10,
+        "name": "Department",
+        "value": "Sales"
+      },
+      {
+        "id" : 12,
+        "name": "passwordExpirationDate ",
+        "value": "12/15/2018"
+      },
+      {
+        "id" : 35,
+        "name": "hireDate",
+        "value": "05/1/2015"
+      },
+      {
+        "id" : 265,
+        "name": "Department",
+        "value": "Software Development"
+      },
+      {
+        "id" : 66,
+        "name": "passwordExpirationDate ",
+        "value": "12/1/2018"
+      },
+      {
+        "id" : 1123,
+        "name": "hireDate",
+        "value": "02/1/2015"
+      },
+      {
+        "id" : 2254,
+        "name": "Department",
+        "value": "Customer Support"
+      },
+      {
+        "id" : 36,
+        "name": "passwordExpirationDate ",
+        "value": "04/1/2018"
+      },
+      {
+        "id" : 70,
+        "name": "officeLocation ",
+        "value": "3-C 311"
+      },
+      {
+        "id" : 734,
+        "name": "hireDate",
+        "value": "07/1/2015"
+      },
+      {
+        "id" : 222,
+        "name": "passwordExpirationDate ",
+        "value": "01/1/2018"
+      }
+
+    ]
+  }
+}

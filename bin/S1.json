@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id" : 3010,
+      "first-name": "Lourie",
+      "last-name": "Aman",
+      "email-address" : "laman@example.com",
+      "tags": [
+        {
+          "name": "hireDate",
+          "value": "12/1/2015"
+        },
+        {
+          "name": "Department",
+          "value": "Sales"
+        },
+        {
+          "name": "passwordExpirationDate ",
+          "value": "12/1/2018"
+        }
+      ]
+    },
+    {
+      "id" : 4478,
+      "first-name": "Booker",
+      "last-name": "Webb",
+      "email-address" : "bwebb@example.com",
+      "tags": [
+        {
+          "name": "hireDate",
+          "value": "05/1/2015"
+        },
+        {
+          "name": "Department",
+          "value": "Sales"
+        },
+        {
+          "name": "passwordExpirationDate ",
+          "value": "12/1/2018"
+        }
+      ]
+    },
+    {
+      "id" : 5201,
+      "first-name": "Lahoma",
+      "last-name": "Ritz",
+      "email-address" : "lritz@example.com",
+      "tags": [
+        {
+          "name": "hireDate",
+          "value": "02/1/2015"
+        },
+        {
+          "name": "Department",
+          "value": "Customer Support"
+        },
+        {
+          "name": "passwordExpirationDate ",
+          "value": "04/1/2018"
+        }
+      ]
+    },
+    {
+      "id" : 4990,
+      "first-name": "Dawne",
+      "last-name": "Kleiner",
+      "email-address" : "dkleiner@example.com",
+      "tags": [
+        {
+          "name": "hireDate",
+          "value": "07/1/2015"
+        },
+        {
+          "name": "Department",
+          "value": "Sales"
+        },
+        {
+          "name": "passwordExpirationDate ",
+          "value": "01/1/2018"
+        },
+        {
+          "name": "officeLocation",
+          "value": "2-E 114"
+        }
+      ]
+    }
+  ]
+}
